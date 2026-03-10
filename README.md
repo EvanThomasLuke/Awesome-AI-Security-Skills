@@ -6,6 +6,8 @@ CAUTION!!!!!! - I HAVE NOT MANUALLY VERIFIED ALL OF THESE. RUNNING SKILLS FROM O
 Please make an issue to add yours. Contributions are welcome. 
 
 # Security
+https://github.com/cisco-ai-defense/skill-scanner - skill scanner 
+
 https://github.com/trailofbits/skills
 
 https://github.com/Netflix-Skunkworks/railguard-skill
@@ -34,9 +36,22 @@ https://github.com/wrsmith108/claude-skill-security-auditor
 
 https://github.com/tanweai/wooyun-legacy - this is not in English and I have not reviewed it https://x.com/blackorbird/status/2015459116224008532 
 
+https://github.com/GabrielYMC/security-audit - also not in English 
+
 https://github.com/aliksir/claude-code-skill-security-check
 
 https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill
+
+https://github.com/netresearch/security-audit-skill
+
+https://github.com/akdenizemirhan/agent-rock
+
+https://github.com/behever/app-security-audit
+
+https://github.com/Netropolitan/Claude-Security-Audit
+
+https://github.com/yoanbernabeu/supabase-pentest-skills
+
 
 # Other/General 
 https://github.com/sickn33/antigravity-awesome-skills
