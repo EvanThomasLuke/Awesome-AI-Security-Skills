@@ -54,6 +54,8 @@ https://github.com/yoanbernabeu/supabase-pentest-skills
 
 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
 
+https://github.com/BehiSecc/bugSkills - Convert h1 reports to skills
+
 
 
 
