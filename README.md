@@ -52,6 +52,10 @@ https://github.com/Netropolitan/Claude-Security-Audit
 
 https://github.com/yoanbernabeu/supabase-pentest-skills
 
+https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+
+
+
 
 # Other/General 
 https://github.com/sickn33/antigravity-awesome-skills
