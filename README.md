@@ -58,6 +58,8 @@ https://github.com/BehiSecc/bugSkills - Convert h1 reports to skills
 
 https://github.com/ljagiello/ctf-skills
 
+https://github.com/elastic/agent-skills - elastic
+
 
 # Other/General 
 https://github.com/sickn33/antigravity-awesome-skills
