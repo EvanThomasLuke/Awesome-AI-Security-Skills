@@ -60,6 +60,8 @@ https://github.com/ljagiello/ctf-skills
 
 https://github.com/elastic/agent-skills - elastic
 
+https://github.com/Security-Phoenix-demo/security-skills-claude-code
+
 
 # Other/General 
 https://github.com/sickn33/antigravity-awesome-skills
