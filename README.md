@@ -56,7 +56,7 @@ https://github.com/mukul975/Anthropic-Cybersecurity-Skills
 
 https://github.com/BehiSecc/bugSkills - Convert h1 reports to skills
 
-
+https://github.com/ljagiello/ctf-skills
 
 
 # Other/General 
