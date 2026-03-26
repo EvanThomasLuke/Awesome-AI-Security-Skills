@@ -62,6 +62,8 @@ https://github.com/elastic/agent-skills - elastic
 
 https://github.com/Security-Phoenix-demo/security-skills-claude-code
 
+https://github.com/pashov/ai-web3-security - web3 
+
 
 # Other/General 
 https://github.com/sickn33/antigravity-awesome-skills
