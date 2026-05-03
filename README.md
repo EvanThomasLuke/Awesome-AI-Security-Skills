@@ -8,6 +8,8 @@ Please make an issue to add yours. Contributions are welcome.
 # Security
 https://github.com/cisco-ai-defense/skill-scanner - skill scanner 
 
+https://github.com/Repello-AI/skill-check - SkillCheck by Repello AI: free hosted scanner that audits MCP skills and AI agent tools for prompt injection, data exfiltration, and security issues. Live at https://skills.repello.ai/
+
 https://github.com/trailofbits/skills
 
 https://github.com/Netflix-Skunkworks/railguard-skill
