@@ -64,6 +64,8 @@ https://github.com/Security-Phoenix-demo/security-skills-claude-code
 
 https://github.com/pashov/ai-web3-security - web3 
 
+https://github.com/elementalsouls/Claude-BugHunter
+
 
 # Other/General 
 https://github.com/sickn33/antigravity-awesome-skills
