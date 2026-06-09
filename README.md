@@ -5,6 +5,8 @@ CAUTION!! - I HAVE NOT MANUALLY VERIFIED ALL OF THESE. RUNNING SKILLS FROM OTHER
 
 Please make an issue to add yours. Contributions are welcome. 
 
+Come chat about AI hacking agents in the AI Hacking Discord https://discord.gg/9AJnkNe6RE
+
 # Security
 
 https://github.com/trailofbits/skills - A Claude Code plugin marketplace from Trail of Bits providing skills to enhance AI-assisted security analysis, testing, and development workflows. Codex can load this marketplace through its Claude marketplace compatibility.
