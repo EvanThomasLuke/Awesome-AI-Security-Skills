@@ -88,6 +88,7 @@ https://github.com/YARAHQ/yara-rule-skill - LLM agent skill for YARA rule author
 
 https://github.com/badsectorlabs/ludus-skills - AI agent skills for Ludus cyber ranges.
 
+https://github.com/ASCIT31/Dark-Moon - open-source (GPL-3.0) autonomous AI penetration-testing platform and MCP host that orchestrates 80+ offensive tools through per-technology sub-agents, driven by a local 14B LLM with a Privacy Gateway and an evidence trail per finding.
 https://github.com/blacklanternsecurity/red-run - security assessment toolkit for Claude Code.
 
 https://github.com/atredispartners/llmchainhunter - Claude Code design plan and runbook for Java deserialization gadget-chain hunting.
