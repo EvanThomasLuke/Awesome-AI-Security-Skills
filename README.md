@@ -78,6 +78,8 @@ https://github.com/openclaw/clawhub/blob/c3c885ec10161ad35fbe78678ccc3f8c34e03ff
 
 https://github.com/aliksir/claude-code-skill-security-check - Security audit skill for Claude Code community skills. Scans for prompt injection, data exfiltration, permission bypass, dangerous commands, and supply chain risks.
 
+https://github.com/pezhik/skilltotal - Static security scanner for AI components: agent skills and plugins, MCP servers, npm/PyPI packages and repos. Detection is deterministic regex + AST — the skill is never executed and no LLM is involved, so a scan runs offline, needs no account, and reproduces exactly. Flags prompt-injection surfaces, exfiltration paths and MCP tool poisoning/shadowing, and every finding carries file/line evidence. JSON and SARIF 2.1.0 output, GitHub Action and pre-commit hook. Apache-2.0.
+
 # Security Workflows and Toolkits
 
 https://github.com/anthropics/claude-code-security-review - prompts and scripts for Claude Code security review workflows that produce structured findings and fixes.
