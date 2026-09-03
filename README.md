@@ -111,6 +111,8 @@ https://github.com/vulhunt-re/rules - companion community rules repo for VulHunt
 
 https://github.com/project-codeguard/rules - model-agnostic AI security ruleset for policy enforcement and unsafe tool detection.
 
+https://github.com/KongFangXun/sofagent - open-source audit harness for AI coding agents: 24 security rules enforced at commit time, HMAC-chained audit log, snapshot rollback.
+
 
 # Related Lists
 
