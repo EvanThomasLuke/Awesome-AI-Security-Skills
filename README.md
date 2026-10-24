@@ -100,6 +100,8 @@ https://github.com/vulhunt-re/skills - reverse-engineering and vulnerability-hun
 
 https://github.com/BrownFineSecurity/iothackbot - IoT security toolkit combining Python CLI tools and Claude Code skills for discovery, firmware analysis, and testing.
 
+https://github.com/doomsday-network/bounty-guard - Prompt-injection firewall, published honeypot blocklist, Claude Code SKILL.md, and MCP security server for screening untrusted GitHub repositories and open-source bounties before autonomous coding agents execute tasks.
+
 
 # Rules and Guardrails
 
