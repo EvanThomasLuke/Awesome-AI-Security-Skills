@@ -100,6 +100,8 @@ https://github.com/vulhunt-re/skills - reverse-engineering and vulnerability-hun
 
 https://github.com/BrownFineSecurity/iothackbot - IoT security toolkit combining Python CLI tools and Claude Code skills for discovery, firmware analysis, and testing.
 
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
+
 
 # Rules and Guardrails
 
