@@ -140,3 +140,9 @@ https://github.com/Gabson0x/bountyforge/releases/tag/v3.0.0
 https://github.com/elementalsouls/Claude-OSINT
 
 
+* Free Threat Modeling Prompts: https://github.com/jmanico/grim-prompter/
+* Free Third Party Library Reduction Prompts: https://github.com/jmanico/trim-reaper/
+* Free Security Logging Expansion Prompts: https://github.com/jmanico/dread-ledger
+
+
+
