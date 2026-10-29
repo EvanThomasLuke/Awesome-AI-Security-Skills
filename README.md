@@ -137,3 +137,6 @@ https://github.com/zhaoxuya520/reverse-skill
 https://github.com/Gabson0x/bountyforge/releases/tag/v3.0.0
 
 
+https://github.com/elementalsouls/Claude-OSINT
+
+
