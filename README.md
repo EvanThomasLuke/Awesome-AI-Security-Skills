@@ -65,6 +65,8 @@ https://github.com/elementalsouls/Claude-BugHunter - A Claude Code skill bundle 
 
 https://github.com/Gabson0x/bountyforge - All-round bug bounty skill for Claude Code parallelized agents for smart contract audits (EVM, Move, Solana, TRON), web/API security, and submission-ready reports for HackerOne, Bugcrowd, Intigriti & Immunefi.
 
+https://github.com/zColdWater/omniforge-skills - 50 zero-dependency, strictly read-only pre-launch security & launch hygiene skills for Claude Code, Codex, Cursor, Windsurf, and Gemini CLI (with `.claude-plugin` & `.codex-plugin` manifests): covers Supabase RLS (CVE-2025-48757), Next.js (CVE-2025-29927), Firebase rules, 52 JS bundle secret patterns, CSP/HSTS headers, SPF/DKIM/DMARC/MTA-STS email DNS, 78-TLD RDAP/USPTO checks, and `/llms.txt` visibility. MIT open-source.
+
 
 # Skill Scanners 
 
